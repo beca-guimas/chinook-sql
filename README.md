@@ -212,6 +212,5 @@ ORDER BY Invoice.InvoiceId;
 * **Linguagem:** ANSI SQL
 * **Ferramenta de Acesso:** DBeaver Community Edition
 
----
 
 ---
